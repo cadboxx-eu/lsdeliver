@@ -1,11 +1,7 @@
 ## A-Frame Builds
 
-To include these builds, you can download and serve them locally.
+this repo is for a cdn reference  so that I can include in a web page components that do not have a web based compponent 
 
-To include the latest [master build](#master-builds) from a CDN, include the
-script below from the [jsdelivr CDN](https://www.jsdelivr.com/):
-
-```html
 <html>
   <head>
     <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@781623fde7a7cc573da06cd7731011a21059c184/dist/aframe-master.min.js"></script>
